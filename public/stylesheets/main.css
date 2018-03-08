@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.add-comment {
+  margin: 10px;
+}
+
+.comment-box {
+  padding: 10px;
+}
+
+.card {
+  width: 100%;
+}
+
+.card .caption-full {
+  padding: 9px;
+}
+
+.comment {
+  padding: -10px;
+}
+
+.delete-form {
+  display: inline;
+}
+
+.nav-item {
+  margin: 10px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.login-form {
+  width: 30%;
+  margin: 25px auto;
+}
